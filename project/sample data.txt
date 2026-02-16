@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Ajith Kumar",
+    "email": "ajith@gmail.com",
+    "password": "989755"
+  },
+  {
+    "name": "Vijay Kumar",
+    "email": "vijay@gmail.com",
+    "password": "985642"
+  },
+  {
+    "name": "Surya",
+    "email": "surya@gmail.com",
+    "password": "234432"
+  },
+  {
+    "name": "Karthik",
+    "email": "karthik@gmail.com",
+    "password": "987567"
+  },
+  {
+    "name": "Arun",
+    "email": "arun@gmail.com",
+    "password": "999333"
+  }
+]
+
+    {
+      "name": "Ajith Kumar",
+      "age": 32,
+      "gender": "Male",
+      "phone": "9876543210",
+      "address": "Chennai"
+    },
+    {
+      "name": "vijay kumar",
+      "age": 28,
+      "gender": "Male",
+      "phone": "9123456780",
+      "address": "Coimbatore"
+    },
+    {
+      "name": "Arun",
+      "age": 45,
+      "gender": "Male",
+      "phone": "9001122334",
+      "address": "Madurai"
+    },
+    {
+      "name": "Divya",
+      "age": 35,
+      "gender": "Female",
+      "phone": "8899776655",
+      "address": "Salem"
+    },
+    {
+      "name": "Mano",
+      "age": 22,
+      "gender": "Male",
+      "phone": "9988776543",
+      "address": "Trichy"
+    }
+  
+  
